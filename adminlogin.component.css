@@ -1,0 +1,42 @@
+div {
+    border: 2px solid #ccc;
+    padding: 20px;
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    border: 1px solid #ccc;
+    padding: 5px;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  p {
+    color: red;
+    font-weight: bold;
+  }
+  
